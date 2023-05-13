@@ -10,3 +10,6 @@ approaches, three different case studies are proposed and analyzed: Ryanair, Fly
 The project demonstrated a highly commendable performance of the automated predictive models, along with a significant enhancement in performance by employing a data-driven approach as opposed to the company's performance. Furthermore, the results of our case studies demonstrate the potential of novel, data-driven approaches to bolster forecasting accuracy and inform decision-making in industry.
 
 As a result of concerns regarding security, privacy, and sensitive business-related data owned by DCC & Shell Aviation A/S, all values are presented as percentages or scaled to random factors. Furthermore, no source code is publicly accessible. For further inquiries or additional information, please contact me via email at alessandrocontini96@gmail.com.
+
+The present project was employed as the thesis for the Master's Degree program in Human-Centered Artificial Intelligence at the Technical University of Denmark. 
+Submitted on February 5th, 2023, and merited a grade of 12 out of 12.
