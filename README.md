@@ -9,6 +9,13 @@ approaches, three different case studies are proposed and analyzed: Ryanair, Fly
 
 ![image](https://github.com/Contedigital/Fuel_demand_forecasting/assets/48278714/b2d7d70e-3243-42b7-9a88-903e968d9012)
 
+<figure>
+  <img
+  src="[https://developer.mozilla.org/static/img/favicon144.png](https://github.com/Contedigital/Fuel_demand_forecasting/assets/48278714/b2d7d70e-3243-42b7-9a88-903e968d9012)"
+  title="Comparison of the market request and LSTM predictions">
+  <figcaption>Comparison of the market requests and the company and algorithmic predictions</figcaption>
+</figure>
+
 
 The project demonstrated a highly commendable performance of the automated predictive models, along with a significant enhancement in performance (as shown in the image above) by employing a data-driven approach as opposed to the company's performance. Furthermore, the results of our case studies demonstrate the potential of novel, data-driven approaches to bolster forecasting accuracy and inform decision-making in industry.
 
