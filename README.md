@@ -11,6 +11,8 @@ approaches, three different case studies are proposed and analyzed: Ryanair, Fly
 
 The project demonstrated a highly commendable performance of the automated predictive models, along with a significant enhancement in performance (as shown in the image above) by employing a data-driven approach as opposed to the company's performance. Furthermore, the results of our case studies demonstrate the potential of novel, data-driven approaches to bolster forecasting accuracy and inform decision-making in industry.
 
+Please refer to my short paper [here](https://github.com/Contedigital/Fuel_demand_forecasting/blob/main/Jet_fuel_demand_forecasting_arxiv%20(3).pdf) for further explantions about the approach and the results.
+
 As a result of concerns regarding security, privacy, and sensitive business-related data owned by DCC & Shell Aviation A/S, all values are presented as percentages or scaled to random factors. Furthermore, no source code is publicly accessible. For further inquiries or additional information, please contact me via email at alessandrocontini96@gmail.com.
 
 The present project was employed as my thesis for the Master's Degree program in Human-Centered Artificial Intelligence 
