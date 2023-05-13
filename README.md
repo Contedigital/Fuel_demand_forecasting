@@ -1,6 +1,6 @@
 # Machine learning based jet fuel demand forecasting for Copenhagen Airport
 
-In this work, we assess the performance of data-driven approaches on a relevant amount of data related to the Danish market, 
+In this work, we assess the performance of data-driven approaches on jet fuel demand data related to the Danish market, 
 gathered from DCC \& Shell Aviation Denmark A/S. In particular, we compare the predictive performance obtained with traditional 
 time series based models (SARIMAX), LSTM sequence-to-sequence neural networks, and hybrid models. While developing such models,
 the main challenges lie in the needed forecasting horizon and in the novelty of the approach. Indeed, to support the company's
