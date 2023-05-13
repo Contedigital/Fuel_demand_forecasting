@@ -7,11 +7,11 @@ the main challenges lie in the needed forecasting horizon and in the novelty of 
 sourcing strategy, the fuel demand needs to be predicted for the upcoming month. To assess the reliability of the data-driven
 approaches, three different case studies are proposed and analyzed: Ryanair, Fly Emirates and the whole Copenhagen Airport.
 
-![image](https://github.com/Contedigital/Fuel_demand_forecasting/assets/48278714/b2d7d70e-3243-42b7-9a88-903e968d9012)
+
 
 <figure>
   <img
-  src="[https://developer.mozilla.org/static/img/favicon144.png](https://github.com/Contedigital/Fuel_demand_forecasting/assets/48278714/b2d7d70e-3243-42b7-9a88-903e968d9012)"
+  src="https://github.com/Contedigital/Fuel_demand_forecasting/assets/48278714/b2d7d70e-3243-42b7-9a88-903e968d9012"
   title="Comparison of the market request and LSTM predictions">
   <figcaption>Comparison of the market requests and the company and algorithmic predictions</figcaption>
 </figure>
